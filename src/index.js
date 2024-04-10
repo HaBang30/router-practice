@@ -1,6 +1,7 @@
 import './index.css';
 
-import NavigatePage from './NavigatePage';
+import PracticeRouter2 from "./PracticeRouter2"
+//import NavigatePage from './NavigatePage';
 //import TheoryOfRouter from './theoryOfRouter';
 //import App from './App';
 //import { BrowserRouter } from 'react-router-dom';
@@ -14,7 +15,8 @@ root.render(
     
       {/* <TheoryOfRouter/> */}
       {/* <App /> */}
-      <NavigatePage/>
+      {/* <NavigatePage/> */}
+      <PracticeRouter2/>
     
    
   </React.StrictMode>

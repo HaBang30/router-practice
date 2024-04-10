@@ -1,5 +1,5 @@
-
-.productBtn {
+/* ==================================[ROUTER 2] ========================================== */
+/* .productBtn {
     background: pink;
     border:none;
     margin-right: 5px;
@@ -14,4 +14,7 @@
 }
 .itemBtn:hover{
     background: blue;
-}
+} */
+
+
+/* =========================== [ROUTER 3] Sử dụng được useNavigate để truyền dữ liệu là một object qua router giữa hai component================================== */

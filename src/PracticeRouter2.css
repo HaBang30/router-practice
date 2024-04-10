@@ -1,0 +1,28 @@
+.container {
+    font-family: cursive;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    border: 1px solid #aaa;
+    
+
+}
+.container h1 {
+    text-align: center;
+}
+.container-table {
+    width: 98%;
+    margin: 0px 1%;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+tr, th, td {
+    border: 1px solid #aaa;
+}
+
+.detail-table {
+    box-sizing: border-box;
+    border-collapse: collapse;
+    width: 300px;
+}
